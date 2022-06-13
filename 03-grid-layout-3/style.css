@@ -22,7 +22,7 @@
 
 .header {
   background-color: #393f4d;
-  grid-column: span 5;
+  grid-column: span 2;
 
   display : grid;
   grid-template-columns: 1fr 4fr;
